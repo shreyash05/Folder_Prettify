@@ -1,7 +1,7 @@
 # Folder_Prettify
 Suppose you have a folder, and its path is also given. You have to create a function which takes three input arguments, which are:
 
-def soldier("C://", "harry.txt", "jpg")
+def soldier("C://", "file.txt", "jpg")
 
 Full Path of the folder as input strings.
 Dictionary file
